@@ -1,5 +1,10 @@
 # PLC S7.Net Data Read/Write and Conversion Guide in C#
 
+> [!NOTE]
+> **TR:** Programı test edecek fiziksel bir PLC'niz yoksa, bilgisayar ortamında simüle ederek test edebilmeniz için gerekli resmi yazılım bağlantısını ve kurulum kılavuzunu sayfanın en altına ekledim. Oraya göz atabilirsiniz.
+> 
+> **EN:** If you do not have a physical PLC to test the application, you can simulate the connection on your PC. I have provided the link to the official software and a step-by-step setup guide at the bottom of this page.
+
 When communicating with Siemens S7-1200/1500 PLCs using the **S7.Net** library in C#, direct type casting is not always sufficient. Due to differences in memory alignment and how data types are represented in PLC memory versus .NET memory, you must use specific extension methods provided by S7.Net to accurately read, write, and convert values.
 
 This repository provides a comprehensive technical guide and C# code snippets demonstrating value conversions for all standard industrial data types.
