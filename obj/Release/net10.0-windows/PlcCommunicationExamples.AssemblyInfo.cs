@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlcCommunicationExamples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd623dcb21e613f599042d9503be83185caf724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ab5145eaff0dbbad87786bcde7499d0554aa2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlcCommunicationExamples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlcCommunicationExamples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
