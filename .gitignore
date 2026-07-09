@@ -1,6 +1,6 @@
 # dotnet / Visual Studio gitignore
-[Ob]bj/
-[Bb]in/
+obj/
+bin/
 .vs/
 *.user
 *.suo
