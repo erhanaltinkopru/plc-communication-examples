@@ -1,0 +1,6 @@
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\PlcCommunicationExamples.exe
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\PlcCommunicationExamples.dll
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\PlcCommunicationExamples.deps.json
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\PlcCommunicationExamples.runtimeconfig.json
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\PlcCommunicationExamples.pdb
+C:\Users\eakop\source\repos\PlcCommunicationExamples\bin\Release\net10.0-windows\publish\S7.Net.dll

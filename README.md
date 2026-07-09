@@ -189,6 +189,7 @@ Hafıza tasarrufu sağlamak amacıyla PLC tarafında durum bilgileri tek bir `By
 
 To test this project without a physical PLC, you can use **PLCSIM** alongside **NetToPLCSim** to simulate an S7 connection over TCP/IP:
 *   **Official Webpage / Resmi Web Sitesi**: [NetToPLCSim (SourceForge)](https://nettoplcsim.sourceforge.net/)
+*   **Step-by-Step Setup Guide / Adım Adım Kurulum Kılavuzu**: [Download PDF / PDF Olarak İndir](NetToPLCSim_Rehberi.pdf)
 *   This software binds your local network card's port 102 to redirect communication directly to PLCSIM.
 
 ---
